@@ -6,6 +6,8 @@ This project implements a data engineering pipeline that processes transactions 
 
 ## Architecture
 
+<img width="813" alt="image" src="https://github.com/user-attachments/assets/60ef38af-0c38-46b9-a105-a56b619fb3c6" />
+
 ### Transactions Data
 Stored in a PostgreSQL database.
 
